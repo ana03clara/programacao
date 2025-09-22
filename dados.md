@@ -7,3 +7,5 @@ Usando as tecnicas de **Markdown**
 |--------|-------|
 | Ana    | 19    |
 | Pedro  | 26    |
+
+![Logo do GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
