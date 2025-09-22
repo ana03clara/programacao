@@ -1,0 +1,76 @@
+Questão 1
+
+O comando cd para acessar a pasta Documentos e depois o comando mkdir para criar a pasta Programação e depois que ja tiver acessado essa pasta (com o cd) com o comando mkdir para a as pastas Banco_de_dados e Linguagens, quando estiver dentro de cada pasta  criar as seguintes subpastas (MySQL,Oracle,SQLServer) e (Java,PHP,JavaScript,React).
+
+Questão 2
+
+touch Programação/Linguagens/Java/Arquivo1.txt
+touch Programação/Banco_de_Dados/MySQL/Arquivo2.docx
+touch Programação/Banco_de_Dados/Oracle/Arquivo3.xlsx
+touch Programação/Linguagens/PHP/Arquivo4.jpg
+touch Programação/Linguagens/JavaScript/Arquivo5.peg
+touch Programação/Linguagens/Arquivo6.bat
+touch Programação/Banco_de_Dados/SQLServer/Arquivo7.exe
+touch Programação/React/Arquivo8.php
+
+
+Questão 3
+
+O comando cp 
+ex:cp Programacao/Linguagens/Java/Arquivo1.txt Programacao/Linguagens/PHP/
+
+Questão 4
+
+O comando mkdir
+
+Questão 5
+
+O comando cp 
+ex:cp -r Programacao/Linguagens Programacao/
+
+Questão 6
+
+O comando cv
+ex:mv Programacao/Linguagens/React/Arquivo8.php Programacao/Linguagens/React/Arquivo8.html
+
+Questão 7
+
+O comando tree
+
+Questão 8
+
+O comando mv
+ex:mv Programacao/Banco_de_Dados/SQLServer/Arquivo7.exe Programacao/Linguagens/Java/
+
+Questão 9
+
+tree Programacao> estrutura.txt
+
+Questão 10
+
+echo -e "Faculdade: UNIESP\Curso: ciencias da computacao\Disciplina: Tópicos Essenciais para Programação\Nome: Ana Clara Gadelha > Programacao/Banco_de_Dados/Oracle/seunome.txt
+
+Questão 11
+
+mv Programacao/Linguagens/Java/Projeto1 Programacao/Linguagens/Java/Cliente1
+mv Programacao/Linguagens/Java/Projeto2 Programacao/Linguagens/Java/Cliente2
+mv Programacao/Linguagens/Java/Projeto3 Programacao/Linguagens/Java/Cliente3
+
+Questão 12
+
+rm Programação/ Linguagens
+
+Questão 13
+
+cat Programacao/Banco_de_Dados/Oracle/seunome.txt
+
+Questão 14
+
+O comando echo
+
+
+
+
+
+
+
