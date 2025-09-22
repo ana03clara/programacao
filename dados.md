@@ -5,5 +5,5 @@ Usando as tecnicas de **Markdown**
 
 | Nome   | Idade |
 |--------|-------|
-| Ana    | 20    |
-| Pedro  | 22    |
+| Ana    | 19    |
+| Pedro  | 26    |
